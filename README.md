@@ -14,5 +14,5 @@ which are crucial for autonomous driving and advanced driver-assistance systems 
 
 ## Download SynRDM
 
-To download the dataset, please go to [SynRDM](https://universidadevigo-my.sharepoint.com/:f:/g/personal/pablo_aguilar_uvigo_gal/IgDuZcA5BF1EQocJ6PRFsnT_ARNILb3Q1ItXduMYVp7fhiY?e=HctoDW) 
+To download the dataset, please go to [SynRDM](https://universidadevigo-my.sharepoint.com/:f:/g/personal/pablo_aguilar_uvigo_gal/IgDuZcA5BF1EQocJ6PRFsnT_AUk88ulmTyLKqjBE6oQVShk) 
 and request access via an email to [pablo.aguilar@uvigo.gal](pablo.aguilar@uvigo.gal).
