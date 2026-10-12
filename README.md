@@ -14,5 +14,4 @@ which are crucial for autonomous driving and advanced driver-assistance systems 
 
 ## Download SynRDM
 
-To download the dataset, please go to [SynRDM](https://universidadevigo-my.sharepoint.com/:f:/g/personal/pablo_aguilar_uvigo_gal/IgDuZcA5BF1EQocJ6PRFsnT_AUk88ulmTyLKqjBE6oQVShk) 
-and request access via an email to [pablo.aguilar@uvigo.gal](pablo.aguilar@uvigo.gal).
+To download the dataset, please go to [SynRDM](https://universidadevigo-my.sharepoint.com/:f:/g/personal/pablo_aguilar_uvigo_gal/IgDuZcA5BF1EQocJ6PRFsnT_AUk88ulmTyLKqjBE6oQVShk). To download the real benchmark dataset based on Toronto-3D and Paris-Lille-3D, please click [here](https://universidadevigo-my.sharepoint.com/:f:/g/personal/pablo_aguilar_uvigo_gal/IgBhmR3ZYB85S5TEmF0GZsfqATukVksbLjrm2icG4inZQ2s).
